@@ -17,7 +17,7 @@ Installation
 - Download the ZIP file
 - Extract the contents of the ZIP file
 - Locate the last folder named flightDash2 (it contains main.lua and Readme.txt)
-- Copy this flightDash3 folder only
+- Copy this flightDash2 folder only
 - Paste the folder into your SDCard/WIDGETS directory
 
 Model battery unplugged
