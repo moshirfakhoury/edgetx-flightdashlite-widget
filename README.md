@@ -13,6 +13,12 @@ Features
 - One global variable value can be displayed e.g. for Flight Counter
 - Optimized for small screens and fast readability
 
+Installation
+- Dowload the ZIP file
+- Extract content from ZIP file
+- Copy only the last folder called 'flightDash2' which includes main.lua and Readme.txt files
+- Paste the folder into your SDCard/WIDGETS folder
+
 Model battery unplugged
 
 <img width="502" height="287" alt="image" src="https://github.com/user-attachments/assets/c22f740f-7a95-4c6e-82d8-6da261f41349" />
